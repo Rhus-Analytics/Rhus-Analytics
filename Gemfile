@@ -5,5 +5,5 @@ gem "jekyll"
 # https://jekyllrb.com/docs/github-pages/
 gem "github-pages", group: :jekyll_plugins
 
-gem "minima"
+gem "minima", "~> 2.5"
 

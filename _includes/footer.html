@@ -12,8 +12,10 @@
           <li class="p-name">
             {%- if site.author -%}
               {{ site.author | escape }}
+            {% comment %}
             {%- else -%}
               {{ site.title | escape }}
+              {% endcomment %}
             {%- endif -%}
             </li>
             {%- if site.email -%}

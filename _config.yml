@@ -1,6 +1,15 @@
+# site
 title: "Rhus Analytics"
 subtitle: "Local useR group for R users and data analytics"
 tagline: "Connecting R users and data analytics using open source tools."
+email: "rhus.analytics@gmail.com"
+
+masthead: img/rhus-analytics-logo-wide.png
+
+excerpt_separator: <!--more-->
+future: true
+
+github_username: "Rhus-Analytics"
 
 theme: minima
 minima:
