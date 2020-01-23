@@ -2,7 +2,7 @@
 title: "Rhus analytics"
 ---
 
-Connecting R users and data analytics using open source tools.
+## Connecting R users and data analytics using open source tools.
 
 
 ## Purpose for Rhus Analytics

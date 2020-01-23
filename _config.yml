@@ -1,3 +1,11 @@
+title: "Rhus Analytics"
+subtitle: "Local useR group for R users and data analytics"
+tagline: "Connecting R users and data analytics using open source tools."
+
+theme: minima
+minima:
+  social:
+    github: jekyll
 
 markdown: kramdown
 
